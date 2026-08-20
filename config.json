@@ -1,6 +1,6 @@
 {
   "_comment": "Bot configuration file.",
-  "prefix": "-",
+  "prefix": "! ",
   "credentials": {
     "_comment": "Optional email/password for auto re-login.",
     "email": "",
